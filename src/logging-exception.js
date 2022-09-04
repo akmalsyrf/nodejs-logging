@@ -12,4 +12,4 @@ const logger = winston.createLogger({
     ]
 });
 
-hello();
+hello(); 
